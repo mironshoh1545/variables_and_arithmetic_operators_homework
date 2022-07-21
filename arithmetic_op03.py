@@ -6,9 +6,6 @@
 
 # find the difference of a and b then assign to "answer"
 
-from multiprocessing.connection import answer_challenge
-
-
 a = 6
 b = 2
 answer = a - b
