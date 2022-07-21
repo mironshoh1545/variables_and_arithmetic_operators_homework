@@ -6,7 +6,7 @@
 
 # Find the multiplication of a and b then assign to 'answer'
 
-a = 6
-b = 2
+a = 5
+b = 4
 answer = a * b
 print(answer)
