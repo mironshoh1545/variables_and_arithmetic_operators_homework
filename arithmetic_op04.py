@@ -5,3 +5,8 @@
 # Create a variable called 'answer'.
 
 # Find the multiplication of a and b then assign to 'answer'
+
+a = 6
+b = 2
+answer = a * b
+print( answer )
