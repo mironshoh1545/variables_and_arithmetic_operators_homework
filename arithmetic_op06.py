@@ -7,3 +7,10 @@
 # Create a variable called "answer".
 
 # Find the sum of a, b and c then assign to "answer".
+
+a = 7
+b = 3
+c = 5
+answer = a + b + c
+print(answer)
+
