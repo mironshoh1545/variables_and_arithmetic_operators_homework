@@ -4,7 +4,7 @@
 
 # Create a variable called "answer".
 
-a = 5
-b = 4
-answer = a * b
+a = 72
+b = 9
+answer = a / b
 print(answer)
